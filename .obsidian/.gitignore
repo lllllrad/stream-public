@@ -1,0 +1,7 @@
+/*
+!/.gitignore
+
+!/plugins/
+!/.editorconfig
+!/community-plugins.json
+!/core-plugins.json
