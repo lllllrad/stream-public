@@ -1,0 +1,1 @@
+YouTube LLLLLRAD 채널 라이브 스트리밍에서 사용하는 공개 Obsidian Vault
