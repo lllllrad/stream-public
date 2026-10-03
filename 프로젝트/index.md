@@ -29,6 +29,7 @@
 		- 그 프로젝트를 LLM이 관리, 아티스트는 방향성 등 의도 전달
 - AKB - Agent-first Knowledge Base: 에이전트 활용 지식/협업 시스템
 	- 예: Spec Driven Development의 스펙을 피드백, 수정 제안 등
+- edaitor: 블록 기반 에디터 공통 라이브러리
 ## 게임
 - plaitformer: Geometry Dash 비슷한 게임 맵 제작 보조 및 검증, AI 활용 고려
 	- 클리어 난이도 평가, 커스텀 맵 제작 편의기능 지원 등을 설계부터 AI 활용하도록 고려한 게임
